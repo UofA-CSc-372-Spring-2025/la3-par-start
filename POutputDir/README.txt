@@ -1,0 +1,1 @@
+Directory for storing output from la3_parallel.chpl
