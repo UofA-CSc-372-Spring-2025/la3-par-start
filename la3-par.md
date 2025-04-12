@@ -103,7 +103,7 @@ You will be submitting the Chapel file (`la3_parallel.chpl`) implementing the op
 - Debug incrementally using test cases.<br>
 
 ## GitHub Setup
-Accept the github assignment at FIXME[https://classroom.github.com/a/](https://classroom.github.com/a/)
+Accept the github assignment at [https://classroom.github.com/a/l1LCdokX](https://classroom.github.com/a/l1LCdokX)
 and do a git clone of your repository.  Make sure to `git commit -a` and
 `git push` frequently!  The initial github repository will include the 
 following files or directories:
